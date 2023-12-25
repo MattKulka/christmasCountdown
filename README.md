@@ -1,10 +1,10 @@
-#Christmas Countdown!
+# Christmas Countdown!
 
-A Live Real Time Countdown
+## A Live Real Time Countdown
 
-[Live Link](https://mattkulka.github.io/christmasCountdown/)
+### [Live Link](https://mattkulka.github.io/christmasCountdown/)
 
-Technologies:
+#### Technologies:
  - HTML
  - CSS
  - JAVASCRIPT
